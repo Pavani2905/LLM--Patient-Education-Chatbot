@@ -1,4 +1,4 @@
-# 🩺 Health Assist AI – LLM-Based Medical Chatbot
+# 🩺 Health Assist AI – LLM--Patient-Education-Chatbot
 
 An AI-powered healthcare assistant designed to provide personalized patient education, disease prediction, prescription analysis, and doctor consultation support using Large Language Models (LLMs), Machine Learning, NLP, and OCR technologies.
 
